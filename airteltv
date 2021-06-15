@@ -144,7 +144,6 @@
         "description": "Test description 3"
       },
       {
-        "type": "native_ad",
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 3",
         "description": "Test description 3"
