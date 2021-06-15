@@ -129,11 +129,9 @@
         "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       {
-        "type": "webview",
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test webview 1",
         "description": "Test description webview 1",
-        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=live"
       },
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
@@ -146,7 +144,6 @@
         "description": "Test description 3"
       },
       {
-        "type": "native_ad",
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 3",
         "description": "Test description 3"
@@ -193,15 +190,9 @@
         "description": "Test description 13"
       },
       {
-        "type": "webview",
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test webview 14",
-        "description": "Test description webview 1",
-        "url": "https://koralivenew.com/matchs",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
+        "description": "Test description webview 1"
       }
     ]
   }
