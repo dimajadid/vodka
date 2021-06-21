@@ -102,7 +102,7 @@
       },
       "list": {
         "_comment": "type = default, back_next",
-        "type": "default",
+        "type": "back_next",
         "item": {
           "_comment": "type = image, text, card, thumb",
           "type": "image",
@@ -124,75 +124,17 @@
   "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 0",
-        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        "image": "https://lh3.googleusercontent.com/qqv_E5w5BVxrclaYVSKjP3tsY92tu7g2N89wKr2LaFU1eEyMUPtyb6sgxDCfnMXkCO4=h310",
+        "title": "Yacine TV",
+        "description": "ياسين تي في
+هو تطبيق لمشاهدة القنوات التلفزيونية والرياضية حتى القنوات المشفرة، ومشاهدة مباريات كرة القدم مباشرةً عبر الانترنت. يعرض التطبيق قوائم أساسية مرتبة بشكل جيد وأنيق، كما يقدم جدولاً دورياً مباشر للمباريات اليومية مع ملخصات وتحليلات والأهداف في كل مباراة."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "type": "webview",
+        "image": "https://lh3.googleusercontent.com/qqv_E5w5BVxrclaYVSKjP3tsY92tu7g2N89wKr2LaFU1eEyMUPtyb6sgxDCfnMXkCO4=h310",
         "title": "Test webview 1",
         "description": "Test description webview 1",
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 2",
-        "description": "Test description 2"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": "Test description 3"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": "Test description 3"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 5",
-        "description": "Test description 5"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 6",
-        "description": ""
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 7",
-        "description": "Test description 7"
-      },
-      {
-        "type": "native_ad"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 9",
-        "description": "Test description 9"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 10",
-        "description": "Test description 10"
-      },
-      {
-        "type": "native_ad"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 12",
-        "description": "Test description 12"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 13",
-        "description": "Test description 13"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test webview 14",
-        "description": "Test description webview 1"
+        "url": "https://koralivenew.com/matchs/"
       }
     ]
   }
