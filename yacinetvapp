@@ -122,11 +122,7 @@
 		}
 	},
 	"data": {
-		"items": [{
-				"image": "https://lh3.googleusercontent.com/qqv_E5w5BVxrclaYVSKjP3tsY92tu7g2N89wKr2LaFU1eEyMUPtyb6sgxDCfnMXkCO4=h310",
-				"title": "Yacine TV",
-				"description": "ياسين تي في هو تطبيق لمشاهدة القنوات التلفزيونية والرياضية حتى القنوات المشفرة، ومشاهدة مباريات كرة القدم مباشرةً عبر الانترنت. يعرض التطبيق قوائم أساسية مرتبة بشكل جيد وأنيق، كما يقدم جدولاً دورياً مباشر للمباريات اليومية مع ملخصات وتحليلات والأهداف في كل مباراة."
-			},
+		"items": [
 			{
 				"type": "webview",
 				"image": "https://lh3.googleusercontent.com/qqv_E5w5BVxrclaYVSKjP3tsY92tu7g2N89wKr2LaFU1eEyMUPtyb6sgxDCfnMXkCO4=h310",
