@@ -88,9 +88,9 @@
       },
       "start": {
         "enabled": true,
-        "count": 2,
+        "count": 1,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 6000
         }
       },
