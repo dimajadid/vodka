@@ -12,7 +12,7 @@
     },
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
+      "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_mediumrect": "admob",
