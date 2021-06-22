@@ -11,21 +11,19 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_banner_id": "ca-app-pub-5943837238829313/8576169765",
         "admob_interstitial_id": [
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712"
+          "ca-app-pub-5943837238829313/3323843081"
         ],
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_native_id": "ca-app-pub-5943837238829313/2010761413",
+        "admob_mediumrect_id": "ca-app-pub-5943837238829313/1729697994",
         "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
         "admob_unit_id": ""
       },
@@ -188,15 +186,6 @@
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 13",
         "description": "Test description 13"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test webview 14",
-        "description": "Test description webview 1",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
       }
     ]
   }
