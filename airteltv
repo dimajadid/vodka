@@ -112,7 +112,7 @@
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": true,
+        "native_ad": false,
         "mediumrect_ad": true,
         "banner_ad": true,
         "interstitial_ad": true
