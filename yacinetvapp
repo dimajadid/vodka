@@ -18,15 +18,15 @@
 			"mode_ads_mediumrect": "admob",
 			"mode_ads_rewarded": "admob",
 			"admob": {
-				"admob_banner_id": "ca-app-pub-5943837238829313/9586053008",
+				"admob_banner_id": "ca-app-pub-3238121788793477/6598897200",
 				"admob_interstitial_id": [
-					"ca-app-pub-5943837238829313/5646807994",
-					"ca-app-pub-5943837238829313/9585999102",
-					"ca-app-pub-5943837238829313/3020590750"
+					"ca-app-pub-3238121788793477/1573747335",
+					"ca-app-pub-3238121788793477/1346570520",
+					"ca-app-pub-3238121788793477/7720407185"
 				],
-				"admob_native_id": "ca-app-pub-5943837238829313/7454659781",
-				"admob_mediumrect_id": "ca-app-pub-5943837238829313/2806975945",
-				"admob_rewarded_id": "ca-app-pub-5943837238829313/2829072968",
+				"admob_native_id": "ca-app-pub-3238121788793477/1382175640",
+				"admob_mediumrect_id": "ca-app-pub-3238121788793477/3972733862",
+				"admob_rewarded_id": "ca-app-pub-3238121788793477/5321420654",
 				"admob_unit_id": ""
 			},
 			"facebook": {
@@ -114,7 +114,7 @@
 			},
 			"item": {
 				"type": "text, webview, richtext",
-				"native_ad": true,
+				"native_ad": false,
 				"mediumrect_ad": true,
 				"banner_ad": true,
 				"interstitial_ad": true
