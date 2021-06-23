@@ -93,7 +93,7 @@
         "count": 1,
         "loader": {
           "enabled": true,
-          "duration": 6000
+          "duration": 5000
         }
       },
       "main": {
@@ -108,7 +108,7 @@
           "type": "card",
           "loader": {
             "enabled": true,
-            "duration": 4000
+            "duration": 5000
           }
         }
       },
@@ -117,7 +117,7 @@
         "native_ad": false,
         "mediumrect_ad": true,
         "banner_ad": true,
-        "interstitial_ad": true
+        "interstitial_ad": false
       }
     }
   },
@@ -127,57 +127,42 @@
         "type": "native_ad"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 0",
-        "description": ""
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "What is Internet TV Airtel?",
+        "description": "Airtel Internet TV is a hybrid TV - a regular (satellite) TV that requires a dish and internet TV with an inbuilt Google Chromecast that helps you view content from websites such as Youtube or Netflix, Airtel Movies, Google Play Music, Google Play Movies etc. ... It requires a internet connection - cable or wifi."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test 1",
-        "description": ""
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "How can I watch Airtel ?",
+        "description": "LIVE CHANNELS : Make sure both the Chromecast device and your phone are in range of the same Wi-Fi network. Open the Chromecast app and connect the device to it. Then open the Airtel TV app and you will be able to see a Chromecast button on the top. Click on any content now to cast it on TV"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 2",
-        "description": ""
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "Can I use Airtel Internet?",
+        "description": "While the Airtel Internet TV comes with 8GB of storage built-in, that can only be used for installation of Android apps. However, as the Internet TV comes with only one TV tuner, you cannot record two TV shows at one time. You can also not record a TV show and watch another live TV channel together."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": ""
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "What is Airtel extreme?",
+        "description": "NEW DELHI : In an effort to address India's television and video streaming audience growing parallel to each other, telecommunications company Bharti Airtel has launched a converged digital entertainment platform, Xstream. The new service will play out in three formats"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": ""
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "What is Airtel TV Premium?",
+        "description": "The app says that access to Airtel TV Premium is valid till December 17, after which it may charge a fee from subscribers. To recall, Airtel recently launched its Airtel Thanks program wherein it provides rewards to customers who commit a monthly ARPU of Rs. 100 and above for their mobile accounts."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 5",
-        "description": ""
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "Is Airtel TV free for Airtel?",
+        "description": "Indian telecom giant Airtel has announced that its Airtel TV app for Android has clocked over 5 crore (50 million) downloads from Google Play. Airtel had been offering free subscription to Airtel prepaid and postpaid users till June, but has now extended it till December 31"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 6",
-        "description": ""
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 7",
+        "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
+        "title": "About Tips for Airtel I TV?",
         "description": ""
       },
       {
         "type": "native_ad"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 9",
-        "description": "Test description 9"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 10",
-        "description": "Test description 10"
       }
     ]
   }
