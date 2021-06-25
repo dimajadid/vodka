@@ -115,7 +115,7 @@
 			"item": {
 				"type": "text, webview, richtext",
 				"native_ad": false,
-				"mediumrect_ad": true,
+				"mediumrect_ad": false,
 				"banner_ad": true,
 				"interstitial_ad": false
 			}
