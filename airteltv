@@ -18,13 +18,15 @@
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-2880125573669364/9561539259",
+        "admob_banner_id": "ca-app-pub-3238121788793477/9197140381",
         "admob_interstitial_id": [
-          "ca-app-pub-2880125573669364/9394018292"
+          "ca-app-pub-3238121788793477/1809604957",
+          "ca-app-pub-3238121788793477/1318650363",
+          "ca-app-pub-3238121788793477/9304951599"
         ],
-        "admob_native_id": "ca-app-pub-2880125573669364/4117640880",
-        "admob_mediumrect_id": "ca-app-pub-2880125573669364/8248457582",
-        "admob_rewarded_id": "",
+        "admob_native_id": "ca-app-pub-3238121788793477/7500915332",
+        "admob_mediumrect_id": "ca-app-pub-3238121788793477/1737398863",
+        "admob_rewarded_id": "ca-app-pub-3238121788793477/5365706585",
         "admob_unit_id": ""
       },
       "facebook": {
@@ -87,10 +89,10 @@
         "duration": 8000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "count": 1,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 5000
         }
       },
@@ -121,9 +123,6 @@
   },
   "data": {
     "items": [
-      {
-        "type": "native_ad"
-      },
       {
         "image": "https://play-lh.googleusercontent.com/yu7mgjHF6r84nxa42OJ7rOBYggxwYtd4PTmJxUi1X25rMuqrsHUq5rpzrE6-YoR6Bw=s180-rw",
         "title": "What is Internet TV Airtel?",
