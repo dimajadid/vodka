@@ -89,10 +89,10 @@
 				"duration": 8000
 			},
 			"start": {
-				"enabled": true,
+				"enabled": false,
 				"count": 1,
 				"loader": {
-					"enabled": true,
+					"enabled": false,
 					"duration": 6000
 				}
 			},
