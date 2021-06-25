@@ -1,1 +1,218 @@
 
+{
+  "config": {
+    "version": "6.0.0",
+    "theme": "dark",
+    "apps": {
+      "guidify": {
+        "enabled": true
+      },
+      "photoify": {
+        "ebnabled": false
+      }
+    },
+    "ads": {
+      "enabled": false,
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob",
+      "mode_ads_mediumrect": "admob",
+      "mode_ads_rewarded": "admob",
+      "admob": {
+        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_id": [
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/1033173712"
+        ],
+        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "admob_unit_id": ""
+      },
+      "facebook": {
+        "facebook_banner_id": "379069400187093_379072946853405",
+        "facebook_interstitial_id": "379069400187093_379075590186474",
+        "facebook_native_id": "379069400187093_379076453519721",
+        "facebook_mediumrect_id": "379069400187093_379077680186265",
+        "facebook_rewarded_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      },
+      "unity": {
+        "unity_app_id": "4100687",
+        "unity_banner_id": "Banner_Android",
+        "unity_interstitial_id": "Interstitial_Android",
+        "unity_rewarded_id": ""
+      },
+      "adcolony": {
+        "adcolony_app_id": "appaa814d2551b94cdb81",
+        "adcolony_interstitial_id": "vz8a72e7b691d04847bb",
+        "adcolony_banner_id": "vz50e276396cb0423581",
+        "adcolony_rewarded_id": ""
+      },
+      "huawei": {
+        "huawei_banner_id": "testw6vs28auh3",
+        "huawei_interstitial_id": "estb4znbuh3n2",
+        "huawei_native_id": "testy63txaom86",
+        "huawei_rewarded_id": "testx9dtjwj8hp"
+      }
+    },
+    "update": {
+      "_comment": "action= , url, app id",
+      "state": false,
+      "title": "Update your app",
+      "message": "New Version!",
+      "action": "",
+      "closeable": true
+    },
+    "exit": {
+      "_comment": "type=text, content=put your text here - type=native_ad - type=banner, image=example link=example",
+      "type": "native_ad",
+      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "loader": {
+        "enabled": true,
+        "duration": 4000
+      }
+    },
+    "rating": {
+      "enabled": false
+    },
+    "popup": {
+      "_comment": "link= , appid, url",
+      "enabled": false,
+      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "title": "Toca Life!\uD83C\uDF89",
+      "description": "Download and Enjoy!\n\uD83D\uDC4FNeon Rainbow Apartment\nThe new Life Wordl Town!\nBuild stories\nCreate Your World!",
+      "link": "http://google.com"
+    },
+    "activities": {
+      "splash": {
+        "duration": 8000
+      },
+      "start": {
+        "enabled": false,
+        "count": 1,
+        "loader": {
+          "enabled": false,
+          "duration": 5000
+        }
+      },
+      "main": {
+        "_comment": "more=put developer id",
+        "more": ""
+      },
+      "list": {
+        "_comment": "type = default, back_next",
+        "type": "default",
+        "item": {
+          "_comment": "type = image, text, card",
+          "type": "card",
+          "loader": {
+            "enabled": false,
+            "duration": 5000
+          }
+        }
+      },
+      "item": {
+        "type": "text, webview, richtext",
+        "native_ad": true,
+        "mediumrect_ad": false,
+        "banner_ad": true,
+        "interstitial_ad": true
+      }
+    }
+  },
+  "data": {
+    "items": [
+      {
+        "type": "native_ad"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/live-score.jpg",
+        "title": "Live Score",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=live"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Champions-Leaque.jpg",
+        "title": "CHAMPIONS LEAGUE",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1005"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/europaLeague.jpg",
+        "title": "EUROPA LEAGUE",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1007"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Premier-League.jpg",
+        "title": "ENGLAND: PREMIER LEAGUE",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1204"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Spain.jpg",
+        "title": "SPAIN",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1399"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Italy.jpg",
+        "title": "ITALY: SERIE A",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1269"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Euro.jpg",
+        "title": "EURO",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1001"
+      },
+      {
+       "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/italyB.jpg",
+        "title": "ITALY: SERIE B",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1265"
+
+      },
+      {
+       "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Germany.jpg",
+        "title": "",
+        "description": "GERMANY: BUNDESLIGA",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1229"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/italyD.jpg",
+        "title": "ITALY: SERIE D",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1263"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Saudi.jpg",
+        "title": "Saudi",
+        "description": "",
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1368"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/XnPtYrEUgXE-IYs-XLIgoY5WtxBUXhCLEfTvn5pH1qT3WjO4dNg1UCnsNXIrNn1XfWA=h310",
+        "title": "What is Live NetTV?",
+        "description": "Live NetTV is one of the best Android Application which provides live streaming of many TV channels. Live NetTV APK provides almost every channel on earth. The application also provides the option to chose quality. You can select SD and HD Quality as per your requirement.Live NetTV has all the categories of channels such as Entertainment, Sports, News, Kids, Action, Movies, etc. You can also select your TV channel based on the country you live in. If you want to watch movies and TV shows then try Cyberflix app and Cinema HD. If you want to watch only sports then try Thop TV.Live NetTV is not available on the Google Play store because of Google’s policy."
+      },
+      {
+        "type": "native_ad"
+      }
+    ]
+  }
+}
