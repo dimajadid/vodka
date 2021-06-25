@@ -124,26 +124,6 @@
 	"data": {
 	"items": [
       {
-        "image": "https://lh3.googleusercontent.com/r60TweULD2KaI3nTVZ_YbS2R74NFOu213RzXCE2Saiq7Z7C_rVT4IS5Oc5dyrw9psg=h310",
-        "title": "تطبيق ياسين تي في",
-        "description": "هو تطبيق لمشاهدة القنوات التلفزيونية والرياضية، ومشاهدة مباريات كرة القدم مباشرةً عبر الانترنت. يعرض التطبيق قوائم أساسية مرتبة بشكل جيد وأنيق، كما يقدم جدولاً دورياً مباشر للمباريات اليومية مع ملخصات وتحليلات والأهداف في كل مباراة.
-	فتطبيق ياسين TV حصل على شهرة كبيرة بين تطبيقات البث لأنه يتيح لك دخول إلى عالم المباريات ومشاهدتها بكل سهولة ومجانا.
-	في حالة كان هناك اي تحديث جديد يكفي زيارة موقعنا الرسمي كوره لايف"
-      },
-      {
-        "image": "https://lh3.googleusercontent.com/YPrzNE_1L6M7lJ6LX5itbaa7wT4mHJfPUJLXEWeYYc13s7Q1BOa34-0v4x8jzri1SNg=h310",
-        "title": "هل يمكن تحميل تطبيق ياسين تي في للأيفون",
-        "description": "للأسف لا يدعم البرنامج الهواتف التي من صنف الآيفون  IOS على متجر الأب ستور، و هو شغال فقط على أجهزة الأندرويد فقط نتأسف لك اذا كنت لا تتوفر على هاتف من نظام اندرويد."
-      },
-      {
-        "image": "https://lh3.googleusercontent.com/365cVl1rOFBDusRWBDzzcPN_X4u6NtuIMQp8J7mJXujCvirkeuGsADN77RghPc0cWJyC=h310",
-        "title": "كيفية تشغيل ياسين تيفي للكمبيوتر",
-        "description": "من أفضل لك أن تستخدم نظام يحاكي الأندرويد و من أفضل هذه الأنظمة نظام blue stacks و nox و ldplayer الذي يستخدم نظام التشغيل Windows أو Mac.
-	1- قم بتنزيل برنامج ldplayer الذي سوف يشغل التطبيق من هنا.
-	2- افتح ملف apk على برنامج المحاكي وقم بتثبيت الملف.
-	3- فرجة ممتعة."
-      },
-      {
 	"type": "webview",
 	"image": "https://lh3.googleusercontent.com/qqv_E5w5BVxrclaYVSKjP3tsY92tu7g2N89wKr2LaFU1eEyMUPtyb6sgxDCfnMXkCO4=h310",
 	"title": "YACINE TV LIVE SCORE",
