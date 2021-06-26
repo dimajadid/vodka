@@ -92,8 +92,8 @@
 				"enabled": false,
 				"count": 1,
 				"loader": {
-					"enabled": false,
-					"duration": 6000
+					"enabled": true,
+					"duration": 4000
 				}
 			},
 			"main": {
@@ -123,18 +123,6 @@
 	},
 	"data": {
 	"items": [
-	{
-        "image": "https://1.bp.blogspot.com/-embAMqIkAAY/YAWFdJBP1vI/AAAAAAAAATk/fxGI3rwtMxMNXM2y2AqJJ4ZyazH-aE0OACLcBGAsYHQ/s1280/unnamed.png",
-        "title": "تتبيث Yacine TV 2021",
-        "description": "يمكنك تتبيث برنامج ياسين TV بتتبعك هذه المراحل السهلة حيث سوف يتم تشغيل التطبيق بدون اي مشاكل:
-أول مرحلة في عملية التتبيث و هي البرنامج حيث يجب تحميله من موقعنا عبر الرابط مباشر في اسفل الموضوع.
-ثاني مرحلة بعد تحميل البرنامج من موقعنا سوف تجده في خانة الملفات File و بعد دلك سوف تجد البرنامج في خانة Download، و بعد ذلك سوف تجده بصيغة apk سوف تضغط عليه مباشرة.
-بعد ذلك سوف يطلب من البرنامج الموافقة على جميع شروط الأمان و الحماية Source الخاصة بالتطبيقات.
-بعد ذلك سوف تنهي عملية التتبيث عن طريق الموافقة على كل الخطوات بضغط على زر Yes.
-بعد ذلك سوف تظهر لك واجهة البرنامج مباشرة و بها العديد من القنوات الرياضية.
- موقع رسمي لتطبيق ياسين تيفي :
-	www.yacineapp.tv"
-      },
       {
 	"type": "webview",
 	"image": "https://lh3.googleusercontent.com/qqv_E5w5BVxrclaYVSKjP3tsY92tu7g2N89wKr2LaFU1eEyMUPtyb6sgxDCfnMXkCO4=h310",
