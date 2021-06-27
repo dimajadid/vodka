@@ -75,7 +75,7 @@
       }
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "popup": {
       "_comment": "link= , appid, url",
