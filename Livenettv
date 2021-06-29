@@ -13,21 +13,19 @@
     },
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "facebook",
-      "mode_ads_mediumrect": "facebook",
-      "mode_ads_rewarded": "facebook",
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob",
+      "mode_ads_mediumrect": "admob",
+      "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_banner_id": "ca-app-pub-3238121788793477/3543721970",
         "admob_interstitial_id": [
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712"
+          "ca-app-pub-3238121788793477/8604476965"
         ],
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_native_id": "ca-app-pub-3238121788793477/3352150280",
         "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "admob_rewarded_id": "ca-app-pub-3238121788793477/4854849932",
         "admob_unit_id": ""
       },
       "facebook": {
