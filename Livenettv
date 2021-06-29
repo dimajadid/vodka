@@ -24,7 +24,7 @@
           "ca-app-pub-3238121788793477/8604476965"
         ],
         "admob_native_id": "ca-app-pub-3238121788793477/3352150280",
-        "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_mediumrect_id": "ca-app-pub-3238121788793477/2251957074",
         "admob_rewarded_id": "ca-app-pub-3238121788793477/4854849932",
         "admob_unit_id": ""
       },
@@ -113,8 +113,8 @@
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": true,
-        "mediumrect_ad": false,
+        "native_ad": false,
+        "mediumrect_ad": true,
         "banner_ad": true,
         "interstitial_ad": false
       }
