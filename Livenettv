@@ -14,17 +14,17 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
+      "mode_ads_interstitial": "",
       "mode_ads_native": "admob",
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-1859338037325441/1986419109",
+        "admob_banner_id": "ca-app-pub-1859338037325441/8011302795",
         "admob_interstitial_id": [
-          "ca-app-pub-1859338037325441/5953584273"
+          "ca-app-pub-1859338037325441/7394518830"
         ],
-        "admob_native_id": "ca-app-pub-1859338037325441/1794847419",
-        "admob_mediumrect_id": "ca-app-pub-1859338037325441/6883522562",
+        "admob_native_id": "ca-app-pub-1859338037325441/6947796273",
+        "admob_mediumrect_id": "ca-app-pub-1859338037325441/6410887453",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
