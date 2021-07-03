@@ -106,7 +106,7 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 5000
           }
         }
@@ -114,17 +114,14 @@
       "item": {
         "type": "text, webview, richtext",
         "native_ad": false,
-        "mediumrect_ad": true,
-        "banner_ad": true,
+        "mediumrect_ad": false,
+        "banner_ad": false,
         "interstitial_ad": false
       }
     }
   },
   "data": {
     "items": [
-      {
-        "type": "native_ad"
-      },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/live-score.jpg",
