@@ -21,10 +21,14 @@
       "admob": {
         "admob_banner_id": "ca-app-pub-7944435872603662/9329243578",
         "admob_interstitial_id": [
-          "ca-app-pub-7944435872603662/2161199993"
+          "ca-app-pub-7944435872603662/2161199993",
+          "ca-app-pub-7944435872603662/2331949754",
+          "ca-app-pub-7944435872603662/6423878634",
+          "ca-app-pub-7944435872603662/8858470284",
+          "ca-app-pub-7944435872603662/7009561363"
         ],
         "admob_native_id": "ca-app-pub-7944435872603662/8535036659",
-        "admob_mediumrect_id": "",
+        "admob_mediumrect_id": "ca-app-pub-7944435872603662/9050041979",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
