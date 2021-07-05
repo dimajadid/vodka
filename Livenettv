@@ -127,6 +127,9 @@
   "data": {
     "items": [
       {
+        "type": "native_ad"
+      },
+      {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/live-score.jpg",
         "title": "Live Score",
@@ -162,6 +165,9 @@
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1399"
       },
       {
+        "type": "native_ad"
+      },
+      {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Italy.jpg",
         "title": "ITALY: SERIE A",
@@ -189,6 +195,9 @@
         "title": "",
         "description": "GERMANY: BUNDESLIGA",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1229"
+      },
+      {
+        "type": "native_ad"
       },
       {
         "type": "webview",
