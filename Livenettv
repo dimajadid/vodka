@@ -12,23 +12,21 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-7944435872603662/9329243578",
+        "admob_banner_id": "ca-app-pub-7226452384234004/4698274552",
         "admob_interstitial_id": [
-          "ca-app-pub-7944435872603662/2161199993",
-          "ca-app-pub-7944435872603662/2331949754",
-          "ca-app-pub-7944435872603662/6423878634",
-          "ca-app-pub-7944435872603662/8858470284",
-          "ca-app-pub-7944435872603662/7009561363"
+          "ca-app-pub-7226452384234004/4195711676",
+          "ca-app-pub-7226452384234004/1747558021",
+          "ca-app-pub-7226452384234004/2072111216"
         ],
-        "admob_native_id": "ca-app-pub-7944435872603662/8535036659",
-        "admob_mediumrect_id": "ca-app-pub-7944435872603662/9050041979",
+        "admob_native_id": "ca-app-pub-7226452384234004/5553025374",
+        "admob_mediumrect_id": "ca-app-pub-7226452384234004/4506702869",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
