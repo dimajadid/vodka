@@ -90,7 +90,7 @@
         "duration": 8000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "count": 1,
         "loader": {
           "enabled": false,
