@@ -23,8 +23,8 @@
         "admob_interstitial_id": [
           "ca-app-pub-1458097177102187/2299637075"
         ],
-        "admob_native_id": "ca-app-pub-5708229768897789/8080144036",
-        "admob_mediumrect_id": "ca-app-pub-5708229768897789/5023091079",
+        "admob_native_id": "ca-app-pub-1458097177102187/1178127097",
+        "admob_mediumrect_id": "ca-app-pub-1458097177102187/1150206933",
         "admob_rewarded_id": "ca-app-pub-5708229768897789/8243795566",
         "admob_unit_id": ""
       },
@@ -33,7 +33,7 @@
         "facebook_interstitial_id": "825720481382430_825732541381224",
         "facebook_native_id": "825720481382430_825732954714516",
         "facebook_mediumrect_id": "",
-        "facebook_rewarded_id": "825720481382430_825733281381150"
+        "facebook_rewarded_id": "ca-app-pub-1458097177102187/3612718747"
       },
       "unity": {
         "unity_app_id": "4100687",
@@ -113,8 +113,8 @@
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": false,
-        "mediumrect_ad": true,
+        "native_ad": true,
+        "mediumrect_ad": false,
         "banner_ad": true,
         "interstitial_ad": true
       }
@@ -213,9 +213,10 @@
         "image": "https://lh3.googleusercontent.com/XnPtYrEUgXE-IYs-XLIgoY5WtxBUXhCLEfTvn5pH1qT3WjO4dNg1UCnsNXIrNn1XfWA=h310",
         "title": "What is Live NetTV?",
         "description": "Live NetTV is one of the best Android Application which provides live streaming of many TV channels. Live NetTV APK provides almost every channel on earth. The application also provides the option to chose quality. You can select SD and HD Quality as per your requirement.Live NetTV has all the categories of channels such as Entertainment, Sports, News, Kids, Action, Movies, etc. You can also select your TV channel based on the country you live in. If you want to watch movies and TV shows then try Cyberflix app and Cinema HD. If you want to watch only sports then try Thop TV.Live NetTV is not available on the Google Play store because of Google’s policy."
-      },
-      {
-        "type": "native_ad"
+        "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        }
       }
     ]
   }
