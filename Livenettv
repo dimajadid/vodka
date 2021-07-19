@@ -19,11 +19,9 @@
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-5708229768897789/4524042407",
+        "admob_banner_id": "ca-app-pub-1458097177102187/3640638902",
         "admob_interstitial_id": [
-          "ca-app-pub-5708229768897789/5645552387",
-          "ca-app-pub-5708229768897789/8349405645",
-          "ca-app-pub-5708229768897789/8349405645"
+          "ca-app-pub-1458097177102187/2299637075"
         ],
         "admob_native_id": "ca-app-pub-5708229768897789/8080144036",
         "admob_mediumrect_id": "ca-app-pub-5708229768897789/5023091079",
