@@ -19,11 +19,11 @@
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-1458097177102187/3640638902",
+        "admob_banner_id": "ca-app-pub-8605797983071516/9396270723",
         "admob_interstitial_id": [
-          "ca-app-pub-1458097177102187/2299637075"
+          "ca-app-pub-8605797983071516/5564836927"
         ],
-        "admob_native_id": "ca-app-pub-1458097177102187/1178127097",
+        "admob_native_id": "ca-app-pub-8605797983071516/7999428574",
         "admob_mediumrect_id": "ca-app-pub-1458097177102187/1150206933",
         "admob_rewarded_id": "ca-app-pub-5708229768897789/8243795566",
         "admob_unit_id": ""
